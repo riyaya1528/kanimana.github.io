@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## ようこそriyaya1528のwebサイトへ
 
 You can use the [editor on GitHub](https://github.com/riyaya1528/riyaya1528.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
